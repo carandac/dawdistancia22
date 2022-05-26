@@ -29,6 +29,8 @@
 
 echo (saludar('Fernando'));
 
+/* Esto es una prueba de GitHub para la tarea 6 */
+
 $suma = suma (24,42);
 echo $suma;
 
